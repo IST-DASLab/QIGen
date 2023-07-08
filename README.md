@@ -1,4 +1,4 @@
-# InferGen
+# Quantized Inference on Generative LLMs (QIGen)
 
 Code generator for inference on Quantized Large Language Models. Quantization is done using [GPTQ](https://github.com/IST-DASLab/gptq).
 
